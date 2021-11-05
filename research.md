@@ -10,6 +10,6 @@ I predominantly study R Coronae Borealis (RCB) variables and their dustless coun
 In the broader sense, I appreciate both observations and computations. My doctoral thesis work is in the MK style of stellar classification and thus I have a lot of experience understanding spectroscopic differences between properties of stars. I've also done a fair bit of work modeling post merger stars in the stellar evolution code MESA, which pushes the boundaries on what that code was designed to do.
 
 
-## Publications
+## Interests
 
-publications could probably be on their own page
+research interests, details on RCBs and what I've studied
