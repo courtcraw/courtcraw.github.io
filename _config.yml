@@ -1,7 +1,6 @@
 # Setup
 title:            Courtney Crawford
-tagline:          'LSU PhD Candidate in Astronomy'
-description:      'Also an avid video gamer, quilter, and ceramic artist.'
+description:          'LSU PhD Candidate in Astronomy'
 url:              https://courtcraw.github.io
 baseurl:          ''
 paginate:         5
