@@ -3,6 +3,9 @@ layout: page
 title: About Me
 ---
 
+Email: ccour14@lsu.edu
+Linkedin: http://linkedin.com/in/courtney-crawford-b50408ba
+
 Hi There! I'm Courtney! I use she/her pronouns.
 
 I am a Physics PhD Candidate at Louisiana State University focusing in observational and computational stellar astronomy. I study the rare class of stars known as R Coronae Borealis variables. Additionally, I emcee for [Astronomy on Tap Baton Rouge](https://www.facebook.com/aotbatonrouge/) and I am the former president of our department's [graduate student organization](https://physgradorg.wixsite.com/mysite).
@@ -16,3 +19,4 @@ Thanks for visiting! You can find out more about me from the links on the left.
 ![My family and pets at Christmastime](./pictures/family.jpg)
 ![The whole group that attended Geoff Fest for my advisor](./pictures/geoff_fest.jpg)
 ![Me and Bill Paxton when I graduated from MESA Summer School](./pictures/mesa_summerschool.jpg)
+

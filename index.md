@@ -4,7 +4,6 @@ title: About Me
 ---
 
 Email: ccour14@lsu.edu
-Linkedin: http://linkedin.com/in/courtney-crawford-b50408ba
 
 Hi There! I'm Courtney! I use she/her pronouns.
 
