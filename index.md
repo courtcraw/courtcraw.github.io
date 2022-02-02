@@ -5,7 +5,7 @@ title: About Me
 
 Email: ccour14@lsu.edu
 
-Hi There! I'm Courtney! I use she/her pronouns.
+Hi There! I'm Courtney! I use she/her and they/them pronouns.
 
 I am a Physics PhD Candidate at Louisiana State University focusing in observational and computational stellar astronomy. I study the rare class of stars known as R Coronae Borealis variables. Additionally, I emcee for [Astronomy on Tap Baton Rouge](https://www.facebook.com/aotbatonrouge/) and I am the former president of our department's [graduate student organization](https://physgradorg.wixsite.com/mysite).
 
