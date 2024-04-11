@@ -13,9 +13,5 @@ At Sydney, I co-host our weekly astronomy seminar series. Back in Louisiana, I w
 
 Thanks for visiting! You can find out more about me from the links on the left.
 
-![My family and pets at Christmastime](./pictures/family.jpg)
-![The whole group that attended Geoff Fest for my advisor](./pictures/geoff_fest.jpg)
-![Me and Bill Paxton when I graduated from MESA Summer School](./pictures/mesa_summerschool.jpg)
-![Progress Pride Flag](./pictures/progress_pride.png)
 
 

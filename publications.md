@@ -5,25 +5,51 @@ title: Publications
 
 Here is a list of all the publications for which I've had a significant impact in and a brief description of the paper, highlighting my specific contributions to the work.
 
+## In Preparation
+
+> New HdC Models
+
+We are working on a paper using the Gaia DR3 data to create a 3D map of HdC stars
+
+> RCB decline study
+
+We are working on the statistics of RCB declines
+
+> High-mass Kepler Red giants - Spectroscopy
+
+I am working on a paper regarding the highest mass red giants in the kepler sample of oscillating red giants.
+
+
 ## Refereed Publications
 
-> Spectral Classification System for R Coronae Borealis Stars and Hydrogen-Deficient Carbon Stars (2022, in prep.) Courtney L. Crawford et al.
+> High-mass Kepler Red giants I
 
-This is my doctoral thesis! It's still in preparation, however I can explain a bit about how it works. In the same style as the MK stellar classification system we all know (e.g. OBAFGKM classifications), I've created a stellar classification system for RCB and HdC stars. The main dimension appears to be correlated with temperature, similar to how the MK system works for oxygen rich stars and for carbon stars. The spectra are actually remarkably similar, so be sure to check this out in the spring of 2022 when it breaks on the ArXiv!
+I am working on a paper regarding the highest mass red giants in the kepler sample of oscillating red giants.
 
-> The dawn of a new era for dustless HdC stars with GAIA eDR3 (2021, in prep.) P. Tisserand et al. 
+> Gaia HdCs 1
 
-My close collaborator, Patrick Tisserand, created a new method of discovering HdC stars using IR colors and therefore we were able to discover 27 new HdC stars and 2 new EHe stars! This is really exciting as these are very rare subclasses of stars. My specific contribution to this paper was to view all of the candidate spectra and confirm whether or not they were members of the HdC or EHe class. 
+We are working on a paper using the Gaia DR3 data to create a 3D map of HdC stars
 
-> Peculiar R Coronae Borealis Stars: Strontium-Rich Stars and the s-Process (2021, in prep.) Courtney L. Crawford et al.
+> Gaia HdCs 2
+
+We are working on a paper using the Gaia DR3 data to create a 3D map of HdC stars
+
+> Spectral Classification System for R Coronae Borealis Stars and Hydrogen-Deficient Carbon Stars (2023) Courtney L. Crawford et al.
+
+This is my doctoral thesis! In the same style as the MK stellar classification system we all know (e.g. OBAFGKM classifications), I've created a stellar classification system for RCB and HdC stars. The main dimension appears to be correlated with temperature, similar to how the MK system works for oxygen rich stars and for carbon stars.
+
+> The dawn of a new era for dustless HdC stars with GAIA eDR3 (2022) P. Tisserand et al. 
+
+My close collaborator, Patrick Tisserand, created a new method of discovering HdC stars using IR colors and therefore we were able to discover 27 new HdC stars and 2 new EHe stars. This is really exciting as these are very rare subclasses of stars. My specific contribution to this paper was to view all of the candidate spectra and confirm whether or not they were members of the HdC or EHe class. 
+
+> Peculiar R Coronae Borealis Stars: Strontium-Rich Stars and the s-Process (2022) Courtney L. Crawford et al.
 
 In this work I looked at all of the spectra we have collected of the RCB and HdC stars and discovered a subclass of these stars which show strongly enhanced Strontium spectral features. Three of these stars have the strongest Strontium lines of any known stars. I also explored the potential reason behind the unique s-processing that would have had to occur in these stars.
 
 
-
 > R Coronae Borealis Star Evolution: Simulating 3D Merger Events to 1D Stellar Evolution Including Large-scale Nucleosynthesis (2021) B. Munson et al. ApJ, Vol 911, Issue 2, id.103
 
-In this work, my colleague, Brad, was able to transfer a 3D hydrodynamical model of a double white dwarf merger into the MESA 1D framework and evolve the post-merger-object into the RCB region of the HR diagram. This is the first work of its kind. I assisted in making sure the abundances for the resultant model were consistent with other RCBs and RCB models.
+In this work, my colleague, Bradley Munson, was able to transfer a 3D hydrodynamical model of a double white dwarf merger into the MESA 1D framework and evolve the post-merger-object into the RCB region of the HR diagram. This is the first work of its kind. I assisted in making sure the abundances for the resultant model were consistent with other RCBs and RCB models.
 
 > Modelling R Coronae Borealis stars: effects of He-burning shell temperature and metallicity (2020) Courtney L. Crawford et al. MNRAS, Vol 498, Issue 2, p.2912-2924
 
@@ -33,13 +59,4 @@ I created 18 MESA models of double white dwarf post-merger objects, where we var
 
 This was an improved version of my undergraduate thesis at the University of Oklahoma. Through fitting the SEDs of the coolest white dwarfs in the local solar neighborhood, we were able to get an estimate of the temperature and age of the star, which gives us estimates for the age of the Galactic population for which that star belongs.
 
-## In Preparation
-
-> Gaia HdCs
-
-We are working on a paper using the Gaia DR3 data to create a 3D map of HdC stars
-
-> High-mass Kepler Red giants
-
-I am working on a paper regarding the highest mass red giants in the kepler sample of oscillating red giants.
 
