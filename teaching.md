@@ -1,7 +1,12 @@
 ---
 layout: page
-title: Teaching
+title: Teaching & Supervision
 ---
+
+## Supervision
+
+I supervise a lot of students
+
 
 ## Teaching
 
