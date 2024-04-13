@@ -3,7 +3,6 @@ layout: page
 title: Service
 ---
 
-## Service
 
 Academic service is a major portion of each of our careers, and is necessary to keep academia itself running properly. I have spent a significant amount of my early career focusing on service and leadership as much as possible.
 
