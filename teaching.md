@@ -3,14 +3,34 @@ layout: page
 title: Teaching & Supervision
 ---
 
+As a postdoc, I have not had as many opportunities to teach courses as I would like, however I have supplemented this teaching work by supervising many students. These two are by far some of the most rewarding aspects of academic work.
+
 ## Supervision
 
-I supervise a lot of students
+Below is a list of students who I have supervised at USyd, their level and project summaries, ordered from most recent to least recent.
+
+Current Students:
+* Jasmyn Curry (Second Year SSP, sole-supervisor) - Spectroscopy of pulsations in RCB stars
+* Josh Ferguson (Second Year SSP, sole-supervisor) - Dipole mode suppression in the Kepler red giant sample
+* George Feng (Second Year SSP, co-supervisor with Tim Bedding) - A red giant in the Pleiades cluster
+* Haonan Li (Honours student, sole-supervisor) - Anamolous peaks and potential tertiary systems found via Kepler oscillating star data
+* K.R. Sreenivas (PhD Student, co-supervisor with Tim Bedding) - Asteroseismology of red giants
+* Lea Schimak (PhD Student, co-supervisor with Tim Bedding) - Asteroseismology of binary red giants
+
+Past Students:
+* Nikita Nikultsev (Honours student, sole-supervisor) - Merging With MESA: Modelling DY Pers by Fusing White Dwarfs (**soon to be published**)
+* Maxwell Bennett (Honours student, co-supervisor with Tim Bedding) - Photometry in Crowded Stellar Fields with NASA’s TESS Mission
+* Noah Smith & Nayan Gallego Sivaraman (First Year SSP, co-supervisor with Helen Johnston) - Analysis of the emission from Low Mass X-ray Binary A0620-00 over 6 years (**soon to be published**)
+* Caleb Clark (Second Year SSP, sole-supervisor) - An automated pipeline to find RCB dust declines (**soon to be published**)
+* Amelie Reid (Summer Project, co-supervior with Tim Bedding and Ben Montet) - Searching the Gaia and TESS data for delta Scuti stars (**has been published**)
+* Yifan Chen (Third Year Dalyell, co-supervisor with Tim Bedding and Yaguang Li) - Automated detection and refinement of asteroseismic parameters in 16,000 stars
+* Alexander Jephtha (Second Year SSP, co-supervisor with Tim Bedding and Yaguang Li) - A search for oscillating wide binaries
+* Cameron Davidson (Second Year SSP, co-supervisor with Tim Bedding and Yaguang Li) - Verifying the low-mass kepler red giants
 
 
 ## Teaching
 
-In my graduate career, I've had the pleasure of teaching one of our Astronomy Lab courses for four semesters. This lab course specifically focused on stars, planets, and a little bit of cosmology. I developed most of the course material for this laboratory. If you are interested, you can explore the laboratory materials that I compiled and a sample of some of my teaching videos on this [Google Drive](https://drive.google.com/drive/folders/1eqg4oOtF_JjuCv4kwptZvIgejM3dG0OY?usp=sharing). 
+In my graduate career, I had the pleasure of teaching one of our Astronomy Lab courses for four semesters. This lab course specifically focused on stars, planets, and a little bit of cosmology. I developed most of the course material for this laboratory. If you are interested, you can explore the laboratory materials that I compiled and a sample of some of my teaching videos on this [Google Drive](https://drive.google.com/drive/folders/1eqg4oOtF_JjuCv4kwptZvIgejM3dG0OY?usp=sharing). 
 
 
 {% comment %}
