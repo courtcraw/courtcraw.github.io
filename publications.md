@@ -120,13 +120,13 @@ This was an improved version of my undergraduate thesis at the University of Okl
 ![ASA Poster](./pictures/ASA_Poster.png)
 
 > AAS 240 - June 2022 - Dissertation Talk (Online) \\
-> A Spectral Classification System for R Coronae Borealis Variables \\
+> A Spectral Classification System for R Coronae Borealis Variables
 
 > AAS 238 - June 2021 - Talk (Online) \\
 > 3-d Mapping The Distribution Of R Coronae Borealis Stars \\
-> [ads link here](https://ui.adsabs.harvard.edu/abs/2021AAS...23832303C/abstract) \\
+> [ads link here](https://ui.adsabs.harvard.edu/abs/2021AAS...23832303C/abstract)
 
 > AAS 236 - June 2020 - Poster (Online) \\
 > The Effect of Helium Burning Shell Temperature on Models of R Coronae Borealis stars in MESA \\
-> [ads link here](https://ui.adsabs.harvard.edu/abs/2020AAS...23633102C/abstract) \\
+> [ads link here](https://ui.adsabs.harvard.edu/abs/2020AAS...23633102C/abstract)
 

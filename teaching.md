@@ -10,8 +10,10 @@ I supervise a lot of students
 
 ## Teaching
 
-In my graduate career, I've had the pleasure of teaching one of our Astronomy Lab courses for four semesters. This lab course specifically focused on stars, planets, and a little bit of cosmology. I developed some of the course material for this laboratory. If you are interested, you can explore the laboratory materials that I compiled and a sample of some of my teaching videos on this [Google Drive](https://drive.google.com/drive/folders/1eqg4oOtF_JjuCv4kwptZvIgejM3dG0OY?usp=sharing). 
+In my graduate career, I've had the pleasure of teaching one of our Astronomy Lab courses for four semesters. This lab course specifically focused on stars, planets, and a little bit of cosmology. I developed most of the course material for this laboratory. If you are interested, you can explore the laboratory materials that I compiled and a sample of some of my teaching videos on this [Google Drive](https://drive.google.com/drive/folders/1eqg4oOtF_JjuCv4kwptZvIgejM3dG0OY?usp=sharing). 
 
+
+{% comment %}
 ## Teaching Philosophy Statement
 
 #### Below is simply a copy of my general teaching philosophy statement
@@ -27,3 +29,5 @@ Just as teaching methods must be varied, I believe that grading and evaluation m
 In my time at Louisiana State University, I spent my first two years teaching one of the two astronomy lab courses offered. The lab that I taught focused specifically on topics that lie outside our own solar system, namely on stars, galaxies, and some cosmology. I helped to develop some of the lab materials for this course, including laboratory assignments on the Hertzsprung-Russell diagram, stellar spectral classification, and gravitational waves. In addition, I volunteered with a local middle school to help teach their students about astronomy for the national Science Olympiad competition, I organized a physics demonstration booth at Girls' Day at the Museum where first grade girls designed and tested stomp rockets, and I emcee for our local Astronomy on Tap chapter. All of these experiences have helped me to hone my skills in presenting science information to audiences that aren't inherently familiar with the topics. While I am capable of teaching any field of astronomy or physics with proper preparation, I am especially qualified to teach courses that involve stellar astronomy, as that is where my research and the majority of my teaching experience have been. Additionally, I have significant research experience in both computational and observational aspects of astronomy, and therefore am qualified to teach those as well. 
 
 For me, teaching students is by far the most rewarding part of doing science. As much as I love to learn about the universe, ultimately that is all for naught if I do not share that knowledge with others. Sharing my passion for astronomy and physics with students is very important to me, and something I would not hesitate to spend every day doing. My hope is that I will be able to foster genuine interest in science, and if I am able to do that with even one student, I will have left the world better than I found it.
+
+{% endcomment %}
