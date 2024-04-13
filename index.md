@@ -11,6 +11,8 @@ I am a postdoc at the University of Sydney in Australia studying asteroseismolog
 
 Thanks for visiting! You can find out more about me from the links on the left.
 
+![A picture from my PhD Graduation, I'm the one in the fancy velvet robe](./pictures/graduation_fam.jpeg)
+
 
 
 
