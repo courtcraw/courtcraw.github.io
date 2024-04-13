@@ -20,7 +20,7 @@ Current Students:
 Past Students:
 * Nikita Nikultsev (Honours student, sole-supervisor) - Merging With MESA: Modelling DY Pers by Fusing White Dwarfs (**soon to be published**)
 * Maxwell Bennett (Honours student, co-supervisor with Tim Bedding) - Photometry in Crowded Stellar Fields with NASA’s TESS Mission
-* Noah Smith & Nayan Gallego Sivaraman (First Year SSP, co-supervisor with Helen Johnston) - Analysis of the emission from Low Mass X-ray Binary A0620-00 over 6 years (**soon to be published**)
+* Noah Smith & Nayan Gallego Sivaraman (First Year SSP, co-supervisor with Helen Johnston) - Analysis of the emission from Low Mass X-ray Binary A0620-00 over 6 years (**soon to be published**). I've got some Python teaching materials available publicly [here](https://github.com/courtcraw/SSP-2023).
 * Caleb Clark (Second Year SSP, sole-supervisor) - An automated pipeline to find RCB dust declines (**soon to be published**)
 * Amelie Reid (Summer Project, co-supervior with Tim Bedding and Ben Montet) - Searching the Gaia and TESS data for delta Scuti stars (**has been published**)
 * Yifan Chen (Third Year Dalyell, co-supervisor with Tim Bedding and Yaguang Li) - Automated detection and refinement of asteroseismic parameters in 16,000 stars
