@@ -24,8 +24,8 @@ Past Students:
 * Caleb Clark (Second Year SSP, sole-supervisor) - An automated pipeline to find RCB dust declines (**soon to be published**)
 * Amelie Reid (Summer Project, co-supervior with Tim Bedding and Ben Montet) - Searching the Gaia and TESS data for delta Scuti stars (**has been published**)
 * Yifan Chen (Third Year Dalyell, co-supervisor with Tim Bedding and Yaguang Li) - Automated detection and refinement of asteroseismic parameters in 16,000 stars
-* Alexander Jephtha (Second Year SSP, co-supervisor with Tim Bedding and Yaguang Li) - A search for oscillating wide binaries
-* Cameron Davidson (Second Year SSP, co-supervisor with Tim Bedding and Yaguang Li) - Verifying the low-mass kepler red giants
+* Alexander Jephtha (First Year SSP, co-supervisor with Tim Bedding and Yaguang Li) - A search for oscillating wide binaries
+* Cameron Davidson (First Year SSP, co-supervisor with Tim Bedding and Yaguang Li) - Verifying the low-mass kepler red giants
 
 
 ## Teaching
