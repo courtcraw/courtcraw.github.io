@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-Email: courtney.crawford@sydney.edu.au
+Email: courtney.crawford@sydney.edu.au \\
 [CV Download Link](./pictures/Crawford_CV.pdf)
 
 Hi, I'm Courtney!

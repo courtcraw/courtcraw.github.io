@@ -112,12 +112,12 @@ This was an improved version of my undergraduate thesis at the University of Okl
 
 > TASC7/KASC14 2023 - Poster \\
 > The Highest Mass Kepler Red Giants \\
-![TASC Poster](./pictures/TASC_Poster.png)
+[Link to the Poster](./pictures/TASC_Poster.png)
 
 > ASA ASM 2023 - Poster \\
 > Spectral Classification of Hydrogen-deficient Carbon Stars using Principal Component Analysis \\
 > [poster link here](https://www.asa2023.org/posters-archived) \\
-![ASA Poster](./pictures/ASA_Poster.png)
+[Link to the Poster](./pictures/ASA_Poster.png)
 
 > AAS 240 - June 2022 - Dissertation Talk (Online) \\
 > A Spectral Classification System for R Coronae Borealis Variables
