@@ -116,7 +116,7 @@ This was an improved version of my undergraduate thesis at the University of Okl
 
 > ASA ASM 2023 - Poster \\
 > Spectral Classification of Hydrogen-deficient Carbon Stars using Principal Component Analysis \\
-> [poster link here](https://www.asa2023.org/posters-archived) \\
+> [ASA ASM Poster Archive](https://www.asa2023.org/posters-archived) \\
 [Link to the Poster](./pictures/ASA_Poster.png)
 
 > AAS 240 - June 2022 - Dissertation Talk (Online) \\
