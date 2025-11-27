@@ -14,7 +14,7 @@ Some acronyms that may be helpful:
 
 ## In Preparation
 
-> TESS reveals yet another Stochastic Low Frequency Variable--- The Extreme Helium Stars
+> TESS reveals yet another Stochastic Low Frequency Variable--- The Extreme Helium Stars \\
 > C. L. Crawford & C. S. Jeffery (2026, in prep)
 
 This article showcases the TESS data for the Extreme Helium Stars, another type of HdC or post-merger star. We find for the first time that these stars are stochastic low frequency variables, which was previously thought to be exclusive to massive stars. We use gaussian process regression to characterize this variability and compare it to stellar parameters.
@@ -24,7 +24,7 @@ This article showcases the TESS data for the Extreme Helium Stars, another type 
 
 > The highest mass Kepler red giants ─ II. Spectroscopic parameters, the amplitude─activity relation, and unexpected halo orbits \\
 > C. L. Crawford et al. (2025)
-> [ads linke here](https://ui.adsabs.harvard.edu/abs/2025MNRAS.542.3289C/abstract)
+> [ads link here](https://ui.adsabs.harvard.edu/abs/2025MNRAS.542.3289C/abstract)
 
 This is the second article in a series of work on the high-mass Kepler red giants. In this paper, we focus on the spectroscopic properties of these stars, including atmospheric parameters, select abundances, exotic lines (such as Li), and chromospheric activity indicators. Using this, we confirmed an anticorrelation between surface chromospheric activity and radial mode oscillation amplitudes, which indicates that strong surface magnetic fields weaken stellar oscillations. We also used the Gaia DR3 astrometric data to show that our sample of stars have orbits consistent with all three Galactic kinematic regions, which is interesting considering young stars such as these were not believed to be present in the Galactic Halo.
 
