@@ -97,7 +97,7 @@ My teaching and supervision activities focus on student research and mentoring. 
   *SSP, sole-supervisor, 2023 Sem 1*  
   An automated pipeline to find RCB dust declines
 
-- **Amelie Reid**  
+- **Amelie Read**  
   *Denison Scholar, co-supervisor, 2023 Summer*  
   Searching the Gaia and TESS data for delta Scuti stars
 
