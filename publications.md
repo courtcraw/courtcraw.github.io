@@ -3,32 +3,42 @@ layout: page
 title: Publications
 ---
 
-Here is a list of all the publications for which I've had a significant impact in and a brief description of the paper, highlighting my specific contributions to the work.
+[Link to the ADS page containing all of my published work](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-7654-7438&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
-Some acronyms that will be helpful:
+Below is a list of my first-authored publications, including some in preparation, and a brief description of their contents.
+
+Some acronyms that may be helpful:
 * RCB - R Coronae Borealis Variables
 * HdC - Hydrogen-deficient Carbon stars
 * dLHdC - dustless HdC stars
 
 ## In Preparation
 
-> Modelling Hydrogen-deficient Carbon stars in MESA--- The effects of total mass and mass ratio \\
-> C. L. Crawford, N. Nikultsev et al. (2024, in prep)
+> TESS reveals yet another Stochastic Low Frequency Variable--- The Extreme Helium Stars
+> C. L. Crawford & C. S. Jeffery (2026, in prep)
 
-I am in the final drafting stages of a paper that began as my student's Honours thesis. This paper describes the generation and analysis of 35 new post-double-white-dwarf-merger models which represent the real, rare phenomenon of the HdC stars. These 35 models vary the initial merger parameters, specifically the total mass and mass ratio of the progenitor binary system. In doing so, we show evidence that the dLHdC stars are likely formed via lower mass mergers than the RCB stars.
-
-> Decline Frequency in RCB Stars \\
-> C. L. Crawford et al. (2024, in prep)
-
-Due to the proliferation of known RCB stars in recent years, and the culmination of many years of large-field photometric surveys, there is an unprecedented amount of light curve data available for the RCB type variables that has heretofore not been studied. We have been studied the statistics and properties of the dust-decline events seen in the RCB light curves to characterize the dust formation properties of these stars. We find that the cooler RCB stars have more active dust production than the warmer members, which has been posited previously using different data. This paper also contains the work of many undergraduate student projects over the years.
-
-> The highest mass Kepler red giants--- II. Spectroscopic parameters of 48 stars \\
-> C. L. Crawford et al. (2024, in prep)
-
-I have been working on a series of papers studying the highest mass red giants from the Kepler sample. I am currently preparing the second of this set of papers, for which we have taken high-resolution spectra from the Keck HIRES instrument. In this paper, I will focus on discussing the atmospheric parameters and abundances of these 48 stars with masses potentially greater than 3 solar masses. In general, we do not find any particularly odd abundances in our sample, however we do find one potential halo star in our sample, and do not see any evidence for binary interactions in the abundances.
+This article showcases the TESS data for the Extreme Helium Stars, another type of HdC or post-merger star. We find for the first time that these stars are stochastic low frequency variables, which was previously thought to be exclusive to massive stars. We use gaussian process regression to characterize this variability and compare it to stellar parameters.
 
 
 ## Refereed Publications
+
+> The highest mass Kepler red giants ─ II. Spectroscopic parameters, the amplitude─activity relation, and unexpected halo orbits \\
+> C. L. Crawford et al. (2025)
+> [ads linke here](https://ui.adsabs.harvard.edu/abs/2025MNRAS.542.3289C/abstract)
+
+This is the second article in a series of work on the high-mass Kepler red giants. In this paper, we focus on the spectroscopic properties of these stars, including atmospheric parameters, select abundances, exotic lines (such as Li), and chromospheric activity indicators. Using this, we confirmed an anticorrelation between surface chromospheric activity and radial mode oscillation amplitudes, which indicates that strong surface magnetic fields weaken stellar oscillations. We also used the Gaia DR3 astrometric data to show that our sample of stars have orbits consistent with all three Galactic kinematic regions, which is interesting considering young stars such as these were not believed to be present in the Galactic Halo.
+
+> A comprehensive study of the dust declines in R Coronae Borealis stars \\
+> C. L. Crawford et al. (2025)
+> [ads link here](https://ui.adsabs.harvard.edu/abs/2025MNRAS.537.2635C/abstract)
+
+Due to the proliferation of known RCB stars in recent years, and the culmination of many years of large-field photometric surveys, there is an unprecedented amount of light curve data available for the RCB type variables that has heretofore not been studied. We have been studied the statistics and properties of the dust-decline events seen in the RCB light curves to characterize the dust formation properties of these stars. We find that the cooler RCB stars have more active dust production than the warmer members, which has been theorized previously using different data. We also find evidence for two distinct dust production mechanisms. This paper contains some work undergone by many undergraduate student projects over the years.
+
+> Modelling Hydrogen-deficient Carbon stars in MESA--- The effects of total mass and mass ratio \\
+> C. L. Crawford, N. Nikultsev et al. (2024)
+> [ads link here](https://ui.adsabs.harvard.edu/abs/2024MNRAS.534.1018C/abstract)
+
+This article began as my student's Honours thesis. This paper describes the generation and analysis of 35 new post-double-white-dwarf-merger models which represent the real, rare phenomenon of the HdC stars. These 35 models vary the initial merger parameters, specifically the total mass and mass ratio of the progenitor binary system. In doing so, we show evidence that the dLHdC stars are likely formed via lower mass mergers than the RCB stars.
 
 > The highest mass Kepler red giants - I. Global asteroseismic parameters of 48 stars \\
 > C. L. Crawford et al. (2024) \\
@@ -36,8 +46,8 @@ I have been working on a series of papers studying the highest mass red giants f
 
 This is the first of a series of papers I have been working on studying the highest mass red giants from the Kepler sample. These are interesting as they are rare and relatively unstudied. In this paper I define the sample as those stars with masses greater than 3 solar masses. I report their global asteroseismic parameters, and discuss various other asteroseismic measurements that can be made with the Kepler data. I show that these stars are most likely to be core helium burning, that the majority of them show weak or suppressed dipole modes, and that they have fairly large oscillation widths. 
 
-> Identifying 850 δ Scuti pulsators in a narrow Gaia colour range with TESS 10-min full-frame images \\
-> A. Reid et al. (2024) \\
+<!-- > Identifying 850 δ Scuti pulsators in a narrow Gaia colour range with TESS 10-min full-frame images \\
+> A. Read et al. (2024) \\
 > [ads link here](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.2464R/abstract)
 
 This work is on the systematic identification of 850 delta Scuti pulsators using the Gaia and TESS data, in order to study the pulsation fraction near the center of the instability strip. I contributed many isochrones, stellar evolution tracks, and advice to the student who ran this project.
@@ -58,7 +68,7 @@ This paper is one of two works we put out analyzing the new Gaia data for the Hd
 > P. Tisserand et al. (2024b) \\
 > [ads link here](https://ui.adsabs.harvard.edu/abs/2023arXiv230910139T/abstract)
 
-This paper is the second of two works we put out analyzing the new Gaia data for the HdC stars. This work focuses on the radial velocity measurements for the stars and how we can use that information to make inferences on the dust production and pulsation properties of these stars. I provided all of the RV measurements for these stars that came from the WiFeS spectrograph.
+This paper is the second of two works we put out analyzing the new Gaia data for the HdC stars. This work focuses on the radial velocity measurements for the stars and how we can use that information to make inferences on the dust production and pulsation properties of these stars. I provided all of the RV measurements for these stars that came from the WiFeS spectrograph. -->
 
 > A spectral classification system for hydrogen-deficient carbon stars \\
 > Courtney L. Crawford et al. (2023) \\
@@ -66,11 +76,12 @@ This paper is the second of two works we put out analyzing the new Gaia data for
 
 This is my doctoral thesis. In the same style as the MK stellar classification system we all know (e.g. OBAFGKM classifications), I've created a stellar classification system for RCB and HdC stars using modern techniques (principal component analysis for dimensionality reductuion and K-means clustering). The system classifies all known HdC stars which have been observed at maximum light on their temperature and carbon molecular strengths. I additionally provide commentary on many of the unique optical spectroscopic traits of HdC stars.
 
-> TESS Observations of the Pleiades Cluster: A Nursery for δ Scuti Stars \\
+<!-- > TESS Observations of the Pleiades Cluster: A Nursery for δ Scuti Stars \\
 > T. Bedding et al. (2023) \\
 > [ads link here](https://ui.adsabs.harvard.edu/abs/2023ApJ...946L..10B/abstract)
 
 This letter shows the observations of delta Scutis in the Pleiades cluster and the pulsator fraction of this cluster. I provided the isochrones used in this work.
+-->
 
 > Peculiar R Coronae Borealis Stars: Strontium-Rich Stars and the s-Process \\
 > Courtney L. Crawford et al. (2022) \\
@@ -78,6 +89,7 @@ This letter shows the observations of delta Scutis in the Pleiades cluster and t
 
 In this work I looked at all of the spectra we have collected of the RCB and HdC stars and discovered a subclass of these stars which show strongly enhanced Strontium spectral features. Three of these stars have the strongest Strontium lines of any known stars. I also explored the potential reason behind the unique s-processing that would have had to occur in these stars.
 
+<!-- > 
 > The dawn of a new era for dustless HdC stars with GAIA eDR3  \\
 > P. Tisserand et al. (2022) \\
 > [ads link here](https://ui.adsabs.harvard.edu/abs/2022A%26A...667A..83T/abstract)
@@ -94,7 +106,7 @@ This work studies the Infrared spectra of HdC stars, especially the oxygen-18 ab
 > B. Munson et al. (2021) \\
 > [ads link here](https://ui.adsabs.harvard.edu/abs/2021ApJ...911..103M/abstract)
 
-In this work, my colleague, Bradley Munson, was able to transfer a 3D hydrodynamical model of a double white dwarf merger into the MESA 1D framework and evolve the post-merger-object into the RCB region of the HR diagram. This is the first work of its kind. I assisted in making sure the abundances for the resultant model were consistent with other RCBs and RCB models.
+In this work, my colleague, Bradley Munson, was able to transfer a 3D hydrodynamical model of a double white dwarf merger into the MESA 1D framework and evolve the post-merger-object into the RCB region of the HR diagram. This is the first work of its kind. I assisted in making sure the abundances for the resultant model were consistent with other RCBs and RCB models. -->
 
 > Modelling R Coronae Borealis stars: effects of He-burning shell temperature and metallicity \\
 > Courtney L. Crawford et al. (2020) \\
@@ -102,13 +114,13 @@ In this work, my colleague, Bradley Munson, was able to transfer a 3D hydrodynam
 
 I created 18 MESA models of double white dwarf post-merger objects, where we varied the temperature of the helium burning shell and the metallicity of the star. Through this, we were able to explore how the parameters of a double white dwarf merger will effect the evolution of the resultant star. Additionally, I was able to figure out that the reason RCB stars show partial helium burning products on their surfaces was because of a unique pattern in the convection of the envelope of the star. This same result was shown later in a different type of model, implying that this is likely inherent to the evolution of the post-merger-object and not specific to the type of model that we created.
 
-> The age of the Galactic stellar halo from Gaia white dwarfs \\
+<!-- > The age of the Galactic stellar halo from Gaia white dwarfs \\
 > M. Kilic et al. (2020) \\
 > [ads link here](https://ui.adsabs.harvard.edu/abs/2019MNRAS.482..965K/abstract) 
 
-This was an improved version of my undergraduate thesis at the University of Oklahoma. Through fitting the SEDs of the coolest white dwarfs in the local solar neighborhood, we were able to get an estimate of the temperature and age of the star, which gives us estimates for the age of the Galactic population for which that star belongs.
+This was an improved version of my undergraduate thesis at the University of Oklahoma. Through fitting the SEDs of the coolest white dwarfs in the local solar neighborhood, we were able to get an estimate of the temperature and age of the star, which gives us estimates for the age of the Galactic population for which that star belongs. -->
 
-## Posters/Conference Presentations
+<!-- ## Posters/Conference Presentations
 
 > TASC7/KASC14 2023 - Poster \\
 > The Highest Mass Kepler Red Giants \\
@@ -128,5 +140,5 @@ This was an improved version of my undergraduate thesis at the University of Okl
 
 > AAS 236 - June 2020 - Poster (Online) \\
 > The Effect of Helium Burning Shell Temperature on Models of R Coronae Borealis stars in MESA \\
-> [ads link here](https://ui.adsabs.harvard.edu/abs/2020AAS...23633102C/abstract)
+> [ads link here](https://ui.adsabs.harvard.edu/abs/2020AAS...23633102C/abstract) -->
 
