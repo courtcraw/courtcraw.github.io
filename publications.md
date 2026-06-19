@@ -15,9 +15,9 @@ Some acronyms that may be helpful:
 ## In Preparation
 
 > TESS reveals yet another Stochastic Low Frequency Variable--- The Extreme Helium Stars \\
-> C. L. Crawford & C. S. Jeffery (2026, in prep)
+> C. L. Crawford & C. S. Jeffery (2026, submitted)
 
-This article showcases the TESS data for the Extreme Helium Stars, another type of HdC or post-merger star. We find for the first time that these stars are stochastic low frequency variables, which was previously thought to be exclusive to massive stars. We use gaussian process regression to characterize this variability and compare it to stellar parameters.
+This article showcases the TESS data for the Extreme Helium Stars, another type of HdC or post-merger star. We find for the first time that these stars are stochastic low frequency variables, which was previously thought to be exclusive to massive stars. We use Gaussian Process Regression to characterize this variability and compare it to stellar parameters.
 
 
 ## Refereed Publications

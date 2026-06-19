@@ -10,7 +10,7 @@ My teaching and supervision activities focus on student research and mentoring. 
 
 ## Courses Taught / Developed
 
-- **OLES1603: Astronomy: Exploring the Universe** *(in development for Sem 1 2026, USyd)*  
+- **OLES1603: Astronomy: Exploring the Universe** *(Sem 1 2026, USyd)*  
   Developed outline slides for the stars and galaxies lectures and participated in curriculum planning meetings.
 
 - **OLET1638: Astronomy from Stars to Black Holes** *(Sem 1 2025 April Intensive, USyd)*  
@@ -29,6 +29,10 @@ My teaching and supervision activities focus on student research and mentoring. 
 
 ## Current Students
 
+- **Cameron Davidson**  
+  *PhD student, lead-supervisor, 2026–present*  
+  Infrared Dust Evolution of R Coronae Borealis Stars
+
 - **Lea Schimak**  
   *PhD student, co-supervisor, 2023–present*  
   Asteroseismology of binary red giants
@@ -40,6 +44,10 @@ My teaching and supervision activities focus on student research and mentoring. 
 ---
 
 ## Past Students
+
+- **Maya Carlyon**
+  *SSP, co-supervisor with May Gade Pedersen, 2026 Sem 1*
+  Contamination from nearby sources in TESS photometric data
 
 - **Julius Hamprecht & Michael Shen**  
   *SSP, co-supervisor with Lea Schimak, 2025 Sem 2*  
