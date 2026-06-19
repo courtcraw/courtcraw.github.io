@@ -2,8 +2,10 @@
 layout: page
 title: Publications
 ---
+<!-- 
+[Link to the ADS page containing all of my published work](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-7654-7438&sort=date%20desc%2C%20bibcode%20desc&p_=0) -->
 
-[Link to the ADS page containing all of my published work](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-7654-7438&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+[Link to the ADS page containing all of my published work](https://ui.adsabs.harvard.edu/public-libraries/skPdTwAPQau9uL5Uacj-4Q)
 
 Below is a list of my first-authored publications, including some in preparation, and a brief description of their contents.
 
