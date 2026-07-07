@@ -4,7 +4,7 @@ title: Teaching & Supervision
 ---
 
 
-My teaching and supervision activities focus on student research and mentoring. Since 2022, I was the primary supervisor for 11 undergraduate and two Honours students and I am currently co-supervisor for two PhD students. I have supervised a total of 19 undergraduates and 3 Honours students. In Sem 1 2026 I will be acting as lead-supervisor for a new incoming PhD student. I also contribute to course design and delivery within the USyd School of Physics.
+My teaching and supervision activities focus on student research and mentorship. I have supervised or co-supervised four PhD students, including my current role as lead supervisor for one, and have served as primary supervisor for 11 undergraduate and two Honours students from a total of 19 undergraduate and three Honours students supervised. I also contribute to course design and delivery within the USyd School of Physics.
 
 ---
 
@@ -40,6 +40,10 @@ My teaching and supervision activities focus on student research and mentoring. 
 - **Yingxiang Wang**  
   *PhD student, co-supervisor, 2023–present*  
   Simple and accurate measurements of red giant asteroseismic parameters
+
+- **Lauren Barkey**
+  *Independent research, lead-supervisor, May 2026-present*
+  Spectrophotometric Variability of HdC Stars
 
 ---
 

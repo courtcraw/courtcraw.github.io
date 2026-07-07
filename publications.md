@@ -16,13 +16,25 @@ Some acronyms that may be helpful:
 
 ## In Preparation
 
-> TESS reveals yet another Stochastic Low Frequency Variable--- The Extreme Helium Stars \\
+<!-- > TESS Observations of Stochastic Low-frequency Variability in Extreme Helium Stars \\
 > C. L. Crawford & C. S. Jeffery (2026, submitted)
+> [ads link here](https://ui.adsabs.harvard.edu/abs/2026arXiv260523209C/abstract)
 
-This article showcases the TESS data for the Extreme Helium Stars, another type of HdC or post-merger star. We find for the first time that these stars are stochastic low frequency variables, which was previously thought to be exclusive to massive stars. We use Gaussian Process Regression to characterize this variability and compare it to stellar parameters.
+This article showcases the TESS data for the Extreme Helium Stars, another type of HdC or post-merger star. We find for the first time that these stars are stochastic low frequency variables, which was previously thought to be exclusive to massive stars. We use Gaussian Process Regression to characterize this variability and compare it to stellar parameters. -->
+
+> The highest mass Kepler red giants ─ III. Individual Frequency Modelling \\
+> C. L. Crawford 
+
+This article will present the final section of my series of articles on high-mass Kepler red giants. For this paper, we perform individual frequency modelling for our red giant sample to estimate how well the asteroseismic scaling relations are at explaining observations at high mass. 
 
 
 ## Refereed Publications
+
+> TESS Observations of Stochastic Low-frequency Variability in Extreme Helium Stars \\
+> C. L. Crawford & C. S. Jeffery (2026, submitted)
+> [ads link here](https://ui.adsabs.harvard.edu/abs/2026arXiv260523209C/abstract)
+
+This article showcases the TESS data for the Extreme Helium Stars, another type of HdC or post-merger star. We find for the first time that these stars are stochastic low frequency variables, which was previously thought to be exclusive to massive stars. We use Gaussian Process Regression to characterize this variability and compare it to stellar parameters.
 
 > The highest mass Kepler red giants ─ II. Spectroscopic parameters, the amplitude─activity relation, and unexpected halo orbits \\
 > C. L. Crawford et al. (2025)
