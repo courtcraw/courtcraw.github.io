@@ -34,6 +34,9 @@ Recording of a seminar I gave at USyd on in 2025 [Link here](https://drive.googl
 
 This is a tutorial on Gaussian Process Regression in time-series data that I gave at a SPRIGS meeting in 2025. [Link here](https://github.com/courtcraw/SPRIGS2025_GPR_tutorial)
 
+## A Github Pages Tutorial
+
+This is a super simple tutorial on how to make a website with Github Pages. I made this for MESA School TAs in 2024. [Link here](./pictures/Website_Guide.pdf)
 
 ## MESA Workshop Tutorials
 
