@@ -41,6 +41,10 @@ My teaching and supervision activities focus on student research and mentorship.
   *PhD student, co-supervisor, 2023–present*  
   Simple and accurate measurements of red giant asteroseismic parameters
 
+- **Isabella Welford & Maya Carlyon**
+  *SSP, 2026 Sem 2*
+  The Variability of Post-Merger Stars
+
 - **Lauren Barkey**
   *Independent research, lead-supervisor, May 2026-present*
   Spectrophotometric Variability of HdC Stars
